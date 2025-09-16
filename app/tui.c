@@ -1,0 +1,4 @@
+struct todo {
+  char[] name;
+  
+}
